@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,14 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# PartyLink
+
+
+## O que é ?
+O PartyLink é um marketplace digital que fornece uma conexão entre clientes e fornecedores. A ideia é que um usúario como cliente faça propostas para fornecedores de eventos , exemplo, um fornecedor de comidas, bebidas, roupas, etc..., Assim , o cliente faz seu evento do jeito que achar melhor, e fornecedores vendem seus produtos, e divulgam seu trabalho. 
+
+[Ver protótipo do Figma](https://www.figma.com/design/kLCXuvtk9LYKbZEaosKdjm/Market-Place?node-id=0-1&m=dev&t=wAsaRvRU5EYYFpAV-1)
+
+
+>>>>>>> eb739c9bf70586f0a634f9b70db6931001e8ea71
