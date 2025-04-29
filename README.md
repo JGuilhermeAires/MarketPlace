@@ -26,33 +26,43 @@ Nessa areá aparecerá as categorias presentes no mercado,como, comida,bebidas,r
 
 # Protótipos de Lo-Fi (figma)
 
+## Tela de Cadastro usuário cliente
+
 ![Tela de Cadastro usuário cliente](src/assets/imgs/h2_cadastroCliente.png)
 
-## Storyboards
+### Storyboards
 
 Caso o usuário não tenha uma conta na partylink e deseja se cadastrar como cliente, basta responder o questionário. Posteriormente fazer login com sua nova conta, assim acessando a tela principal da plataforma
 
+## Tela de Cadastro usuário fornecedor
+
 ![Tela de Cadastro usuário fornecedor](src/assets/imgs/h1_cadastroFornecedor.png)
 
-## Storyboards
+### Storyboards
 
 Caso o usuário não tenha uma conta na partylink e deseja se cadastrar como fornecedor, basta responder o questionário. Posteriormente fazer login com sua nova conta, assim acessando a tela principal da plataforma
 
+## Tela de pesquisar por fornecedores
+
 ![Tela de pesquisar por fornecedores](src/assets/imgs/h3-pesquisarFornecedor.png)
 
-## Storyboards
+### Storyboards
 
 No cabeçalho da tela principal há a opção do cliente pesquisar pelos fornecedores presentes na plataforma, basta pôr o nome correto da empresa ou pessoa fornecedora.
 
-![Tela de pesquisas de fornecedores](src/assets/imgs/h4_visualizarFornecedores.png)
+## Tela de visualizar fornecedores
 
-## Storyboards
+![Tela de visualizar fornecedores](src/assets/imgs/h4_visualizarFornecedores.png)
+
+### Storyboards
 
 Na tela principal o cliente visualizará os fornecdores presentes na plataforma.
 
+## Tela de visualização de propostas
+
 ![Tela de visualização de propostas](src/assets/imgs/h5_realizarProposta.png)
 
-## Storyboards
+### Storyboards
 
 No cabeçalho da tela do usuário fornecedor haverá um simbolo de mensagens, lá vai está propostas, o fornecedor pode aceitar ou não. Clicando no botão de aceitar com icone de seta, ou recusar no icone de lixeira
 
