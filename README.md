@@ -38,7 +38,7 @@ Caso o usuário não tenha uma conta na partylink e deseja se cadastrar como cli
 
 Caso o usuário não tenha uma conta na partylink e deseja se cadastrar como fornecedor, basta responder o questionário. Posteriormente fazer login com sua nova conta, assim acessando a tela principal da plataforma
 
-![Tela de Cadastro usuário fornecedor](src/assets/imgs/h3_pesquisar-Fornecedor.png)
+![Tela de pesquisar por fornecedores](src/assets/imgs/h3-pesquisarFornecedor.png)
 
 ## Storyboards
 
